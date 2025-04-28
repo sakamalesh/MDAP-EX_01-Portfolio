@@ -1,5 +1,4 @@
 # MDAP-EX_01-Portfolio
-## Date:
 ## Date:28/04/25
 
 ## AIM
